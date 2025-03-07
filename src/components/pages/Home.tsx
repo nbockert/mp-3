@@ -54,7 +54,7 @@ export default function Home() {
         <Layout title="Home">
         <StyledDiv>
             <ImageDiv>
-            <img src="src/assets/IMG_3596.JPG" alt=""/>
+            <img src="../../IMG_3596.JPG" alt=""/>
             </ImageDiv>
             <Content>
                 <p>
