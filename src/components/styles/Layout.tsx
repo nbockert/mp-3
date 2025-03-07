@@ -12,12 +12,14 @@ const Container = styled.div`
     flex-direction: row;
     position: relative;
     background-color: #7D1C4A;
+ 
     @media screen and (max-width: 1000px) {
         width: 100%;
         display: flex;
         flex-direction: row;
         position: relative;
         background-color: #7D1C4A;
+    
         
     }
     @media screen and (max-width: 750px) {
